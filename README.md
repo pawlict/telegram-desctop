@@ -1,4 +1,4 @@
-# telegram-desctop
+# Telegram Desktop
 
 ## Quick Start
 Poprzez pobranie z Telegram Org.
